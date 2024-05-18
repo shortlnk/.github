@@ -2,7 +2,7 @@
 Shortlnk is a low price SAAS (Software-as-a-service) short linker (url).
 
 # Motivation
-My name is @shaynlink, and I am not a big-hearted idealist, the goal of this project is above all to create a SAAS to make money.\
+My name is [@shaynlink](https://github.com/shortlnk), and I am not a big-hearted idealist, the goal of this project is above all to create a SAAS to make money.\
 But I love the Open Source philosophy, which is why I'm creating a roadmap to meet the needs of everyone from ordinary people to large corporations to DIYers.
 
 # Key point
@@ -20,4 +20,4 @@ To accomplish the project, it must respect certain key points, the roadmap is th
 - [ ] Update Open-Source version for most language compatible
 
 # Contributor
-@shaynlink
+[@shaynlink](https://github.com/shaynlink)
